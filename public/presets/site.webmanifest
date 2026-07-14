@@ -1,0 +1,21 @@
+{
+  "name": "Gurujit Enterprises",
+  "short_name": "Gurujit",
+  "description": "Civil construction and infrastructure company in Odisha",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1622",
+  "theme_color": "#0A1622",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
